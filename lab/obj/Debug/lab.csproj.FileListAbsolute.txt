@@ -1,0 +1,7 @@
+C:\Users\dinoz\Desktop\lab\lab\bin\Debug\lab.exe.config
+C:\Users\dinoz\Desktop\lab\lab\bin\Debug\TextFile.txt
+C:\Users\dinoz\Desktop\lab\lab\bin\Debug\lab.exe
+C:\Users\dinoz\Desktop\lab\lab\bin\Debug\lab.pdb
+C:\Users\dinoz\Desktop\lab\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\lab\lab\obj\Debug\lab.exe
+C:\Users\dinoz\Desktop\lab\lab\obj\Debug\lab.pdb
